@@ -1,9 +1,9 @@
 # Marius Michailovskis
 
 ## Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mariusjm&show_icons=true&theme=merko"/>
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariusjm&theme=merko"/>
-                 
+
+
+
 ## Coding and Development
 [![Alt Text](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mariusjm_work)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/MariusJM/)
@@ -11,6 +11,12 @@
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/)
+
+
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=mariusjm&show_icons=true&theme=merko"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariusjm&theme=merko"/>
+
 
 <div>
 
@@ -66,7 +72,7 @@
   <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white"/>
 </div>
 
-<!--
+
 **MariusJM/MariusJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
