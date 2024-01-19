@@ -1,21 +1,28 @@
 # Marius Michailovskis
 
 ## Stats
+
+
+
+## Coding and Development
+
+<!--[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)-->
+
+
+
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=mariusjm&show_icons=true&theme=merko"/>
 <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariusjm&theme=merko"/>
 
 
-## Coding and Development
+domain for stats - github-readme-stats-psi-pearl-38.vercel.app - replace in url
 [![Alt Text](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/mariusjm_work)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/MariusJM/)
-<!--[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)-->
+
+
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/)
 [![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)](https://www.edx.org/)
 [![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/)
-
-
-<!--
-domain for stats - github-readme-stats-psi-pearl-38.vercel.app - replace in url
 
 
 <div>
