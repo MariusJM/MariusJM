@@ -2,7 +2,8 @@
 
 ## Stats
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=mariusjm&show_icons=true&theme=merko"/>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariusjm&theme=merko"/>
 
 ## Coding and Development
 
@@ -11,8 +12,7 @@
 
 
 <!--
-<img src="https://github-readme-stats.vercel.app/api?username=mariusjm&show_icons=true&theme=merko"/>
-<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariusjm&theme=merko"/>
+
 
 
 domain for stats - github-readme-stats-psi-pearl-38.vercel.app - replace in url
